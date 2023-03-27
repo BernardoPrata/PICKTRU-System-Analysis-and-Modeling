@@ -20,8 +20,4 @@ The objective of this project is to develop an architectural representation of t
 - Block Definition Diagram (10%): SysML diagram representing the STORE system, including all non-primitive types of the SysML language represented in the diagram.
 - Internal Block Diagram (10%): SysML diagram representing the STORE system, aligned with the block diagram (produced in B.5) and the use case diagram of the SMART application, which is part of the same system.
 
-In addition to the diagrams, each delivery should include a PDF file with a table identifying the group and the number of hours worked by each student, as well as a compressed file (preferably in .zip format) containing the source files of the Archi and Camunda tools used to create each diagram.
-
-Scenarios that are not explicitly mentioned in the UoD or cannot be deduced from it but are considered reasonable in a real-use scenario should be presented for discussion in the Moodle channel or during the classes.
-
 Overall, this project aims to provide a comprehensive architectural representation of the PICKTRU product, which will allow business and technology stakeholders to better understand the product and its functionalities.
